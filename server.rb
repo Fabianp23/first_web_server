@@ -9,5 +9,5 @@ get '/sinatra' do
 end
 
 get '/error' do
-  raise 'boom'
+  # raise 'boom'
 end
