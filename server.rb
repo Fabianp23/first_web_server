@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  "Hello World"
+  hello.txt
 end
 
 get '/sinatra' do
