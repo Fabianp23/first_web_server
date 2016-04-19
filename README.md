@@ -1,6 +1,5 @@
 #First Web Server
 ======
 Used:
-Ruby Gem: Sinatra
-Heroku
+Ruby Gem: Sinatra  Heroku
 
